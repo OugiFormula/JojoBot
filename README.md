@@ -1,4 +1,4 @@
 # JojoBot
-This is a bot that can STOP TIME
+This bot can STOP TIME
 Change in the code the direction of the images.
 Add your own bot token.
